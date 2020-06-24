@@ -1,0 +1,40 @@
+.slide-container {
+    position: relative;
+    max-width: 100%;
+}
+
+.slide img {
+    width: 100%;
+    max-height: 300px;
+}
+
+.effect {
+    animation-name: effect;
+    animation-duration: 1s;
+}
+
+/*@keyframes effect {
+    from {
+        opacity: 0.3;
+    }
+
+    to {
+        opacity: 0.1;
+    }
+}
+
+.dot-container {
+    text-align: center;
+}
+
+span {
+    border-radius: 50%;
+    height: 15px;
+    width: 15px;
+    background-color: blue;
+    display: inline-block;
+}
+
+.active {
+    background-color: red;
+}*/
